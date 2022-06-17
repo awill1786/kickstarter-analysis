@@ -30,7 +30,9 @@ From this data I was able to create a line chart with markers.
 
 ## Outcomes Based on Goals
 For this analysis we want to find out how many different outcomes there were based on the goal of the campaign. To start I created a table that features the different outcomes separated into columns, and the rows were separated by the goal. I then created a column that added the outcomes based on the goal amount, and then determined the percentage of each outcome based on the goal amount.
- 
+ ![This is an image]( https://github.com/awill1786/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals_Table.png) 
+
+
 
 I didn’t have any issues obtaining this data, but one challenge I could see is using the proper syntax within the COUNTIF() function. Sometimes its easy to miss a quotation when trying to write the criteria for the formula. From this information I was able to create this chart. 
 
