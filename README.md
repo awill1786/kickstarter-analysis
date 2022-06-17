@@ -5,24 +5,7 @@ The purpose of this analysis is to show how different Kickstarter campaigns fare
 ## Launch Date Based Outcomes
 I started by adding a column, Years by utilizing the Years() function. I then used the data located within the Date Created Conversion to isolate only the year from the date. I then created a pivot table from the data. 
 
-Parent Category	theater			
-Years	(All)			
-				
-Count of outcomes	Column Labels			
-Row Labels	successful	failed	canceled	Grand Total
-Jan	56	33	7	96
-Feb	71	39	3	113
-Mar	56	33	3	92
-Apr	71	40	2	113
-May	111	52	3	166
-Jun	100	49	4	153
-Jul	87	50	1	138
-Aug	72	47	4	123
-Sep	59	34	4	97
-Oct	65	50		115
-Nov	54	31	3	88
-Dec	37	35	3	75
-Grand Total	839	493	37	1369
+![This is an image]( https://github.com/awill1786/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch_Pivot.png) 
 
 I filtered the Parent category to only show me campaigns that featured theater. The columns show the different outcomes by month.  One challenge I was running into was getting the rows to show the months. I was able to figure it out by only having the Date Created Conversion category in my Rows or Axis area.
 From this data I was able to create a line chart with markers. 
