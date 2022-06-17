@@ -34,7 +34,7 @@ For this analysis we want to find out how many different outcomes there were bas
 
 I didn’t have any issues obtaining this data, but one challenge I could see is using the proper syntax within the COUNTIF() function. Sometimes its easy to miss a quotation when trying to write the criteria for the formula. From this information I was able to create this chart. 
 
-/assets/images/ Outcomes_vs_Goals.png
+/resources/Outcomes_vs_Goals.png
 
  
 
