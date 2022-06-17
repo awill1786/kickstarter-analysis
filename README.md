@@ -9,6 +9,8 @@ I started by adding a column, Years by utilizing the Years() function. I then us
 
 I filtered the Parent category to only show me campaigns that featured theater. The columns show the different outcomes by month.  One challenge I was running into was getting the rows to show the months. I was able to figure it out by only having the Date Created Conversion category in my Rows or Axis area.
 From this data I was able to create a line chart with markers. 
+
+![This is an image](https://github.com/awill1786/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png) 
  
 
 ## Outcomes Based on Goals
